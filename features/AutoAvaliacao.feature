@@ -92,5 +92,9 @@ kkkkkkkkkkkkkk
 segundo commit
 =======
 aletração discrepantes 1
+<<<<<<< HEAD
 >>>>>>> commit discrepantes1
 
+=======
+aletração discrepantes 2
+>>>>>>> commit discrepantes2
